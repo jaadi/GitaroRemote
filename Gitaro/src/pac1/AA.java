@@ -10,6 +10,7 @@ public class AA {
 		System.out.println("other syso");
 		
 		System.out.println("this is from finini");
+		System.out.println("2 - this is from finini");
 	}
 
 }
