@@ -18,6 +18,11 @@ public class BB {
 	public void setSalutation(String salutation) {
 		this.salutation = salutation;
 	}
+
+	public void sayHallo() {
+		System.out.println(salutation);
+		
+	}
 	
 	
 
